@@ -12,7 +12,7 @@
       "backup_script": "https:\/\/github.com\/tin0521\/ff\/raw\/main\/phoveus_backup.zip",
       "enabled": true,
       "featured": false,
-      "sort_order": 1,
+      "sort_order": 123,
       "tags": [
         "popular",
         "phoveus"
@@ -1834,13 +1834,13 @@
       ]
     },
     {
-      "id": "hola",
-      "name": "KUMA",
-      "image": "https:\/\/raw.githubusercontent.com\/missnapokita\/custom-skin-ngayong-2026\/main\/img\/phov%20jiraya.png",
-      "script": "https:\/\/raw.githubusercontent.com\/missnapokita\/custom-skin-ngayong-2026\/main\/phov%20jiraya.zip",
-      "backup_script": "https:\/\/raw.githubusercontent.com\/missnapokita\/custom-skin-ngayong-2026\/main\/phov%20jiraya.zip",
+      "id": "sun_watata",
+      "name": "Sun",
+      "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/e\/eb\/Hero102111-portrait.png\/revision\/latest\/scale-to-width-down\/150?cb=20250411101503",
+      "script": "https:\/\/raw.githubusercontent.com\/missnapokita\/anime_aug26\/main\/sep_26\/skin\/sun%20kakashi.zip",
+      "backup_script": "",
       "enabled": true,
-      "sort_order": 123,
+      "sort_order": 1,
       "featured": true
     }
   ]
