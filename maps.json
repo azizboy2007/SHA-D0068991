@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "type": "maps",
+  "updated_at": "",
+  "items": [
+    {
+      "id": "night_mode",
+      "name": "Night Mode",
+      "image": "https://github.com/missnapokita/maps/blob/main/image/Picsart_26-07-28_23-26-04-012.jpg?raw=true",
+      "images": [
+        "https://github.com/missnapokita/maps/blob/main/image/Picsart_26-07-28_23-26-04-012.jpg?raw=true",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/Picsart_26-07-28_23-26-20-456.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/Picsart_26-07-28_23-26-42-827.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/Picsart_26-07-28_23-26-57-933.jpg"
+      ],
+      "variants": {
+        "smooth": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20low.zip",
+        "medium": "",
+        "high": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20high.zip",
+        "ultra": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip"
+      },
+      "backup_variants": {
+        "smooth": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "medium": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "high": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "ultra": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip"
+      },
+      "enabled": true,
+      "sort_order": 1
+    },
+    {
+      "id": "league_of_legends",
+      "name": "League of Legends",
+      "image": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%201.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%201.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%202.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%203.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%204.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%205.jpg"
+      ],
+      "variants": {
+        "smooth": "",
+        "medium": "",
+        "high": "https://github.com/missnapokita/maps/raw/refs/heads/main/lol/lol%20high.zip",
+        "ultra": ""
+      },
+      "backup_variants": {
+        "smooth": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "medium": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "high": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "ultra": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip"
+      },
+      "enabled": true,
+      "sort_order": 2
+    },
+    {
+      "id": "mpl",
+      "name": "MPL",
+      "image": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%201.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%201.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%202.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%203.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%204.jpg",
+        "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%205.jpg"
+      ],
+      "variants": {
+        "smooth": "",
+        "medium": "",
+        "high": "https://raw.githubusercontent.com/missnapokita/maps/main/mpl%20high.zip",
+        "ultra": ""
+      },
+      "backup_variants": {
+        "smooth": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "medium": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "high": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+        "ultra": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip"
+      },
+      "enabled": true,
+      "sort_order": 3
+    }
+  ]
+}
