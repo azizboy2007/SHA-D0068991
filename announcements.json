@@ -1,1 +1,16 @@
-
+{
+  "version": 1,
+  "type": "announcements",
+  "updated_at": "",
+  "items": [
+    {
+      "id": "announcement_001",
+      "title": "Welcome to MAXIMUS TOOLKIT",
+      "message": "This is a sample announcement for testing.",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "enabled": true,
+      "priority": 1,
+      "show_once": false
+    }
+  ]
+}
