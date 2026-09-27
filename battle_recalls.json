@@ -1,67 +1,184 @@
 {
-  "version": 1,
+  "version": 2,
   "type": "battle_recalls",
   "updated_at": "",
-  "items": [
+  "replaceables": [
     {
-      "id": "recall_sample_01",
-      "name": "Recall 1",
+      "id": "classic_recall",
+      "name": "Classic Recall",
       "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
-      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
-      "backup_script": "",
+      "backup_script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
       "enabled": true,
       "sort_order": 1,
-      "tags": ["recall", "sample"]
+      "replacements": [
+        {
+          "id": "classic_replacement_01",
+          "name": "Recall 1",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 1
+        },
+        {
+          "id": "classic_replacement_02",
+          "name": "Recall 2",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 2
+        },
+        {
+          "id": "classic_replacement_03",
+          "name": "Recall 3",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 3
+        }
+      ]
     },
+
     {
-      "id": "recall_sample_02",
-      "name": "Recall 2",
+      "id": "light_dark_recall",
+      "name": "Light & Dark",
       "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
-      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
-      "backup_script": "",
+      "backup_script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
       "enabled": true,
       "sort_order": 2,
-      "tags": ["recall", "sample"]
+      "replacements": [
+        {
+          "id": "light_dark_replacement_01",
+          "name": "Recall 4",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 1
+        },
+        {
+          "id": "light_dark_replacement_02",
+          "name": "Recall 5",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 2
+        },
+        {
+          "id": "light_dark_replacement_03",
+          "name": "Recall 6",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 3
+        }
+      ]
     },
+
     {
-      "id": "recall_sample_03",
-      "name": "Recall 3",
+      "id": "halloween_recall",
+      "name": "Halloween",
       "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
-      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
-      "backup_script": "",
+      "backup_script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
       "enabled": true,
       "sort_order": 3,
-      "tags": ["recall", "sample"]
+      "replacements": [
+        {
+          "id": "halloween_replacement_01",
+          "name": "Recall 7",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 1
+        },
+        {
+          "id": "halloween_replacement_02",
+          "name": "Recall 8",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 2
+        }
+      ]
     },
+
     {
-      "id": "recall_sample_04",
-      "name": "Recall 4",
+      "id": "oriental_recall",
+      "name": "Oriental",
       "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
-      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
-      "backup_script": "",
+      "backup_script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
       "enabled": true,
       "sort_order": 4,
-      "tags": ["recall", "sample"]
+      "replacements": [
+        {
+          "id": "oriental_replacement_01",
+          "name": "Recall 9",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 1
+        },
+        {
+          "id": "oriental_replacement_02",
+          "name": "Recall 10",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 2
+        }
+      ]
     },
+
     {
-      "id": "recall_sample_05",
-      "name": "Recall 5",
+      "id": "party_recall",
+      "name": "Party",
       "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
-      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
-      "backup_script": "",
+      "backup_script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
       "enabled": true,
       "sort_order": 5,
-      "tags": ["recall", "sample"]
+      "replacements": [
+        {
+          "id": "party_replacement_01",
+          "name": "Recall 11",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 1
+        },
+        {
+          "id": "party_replacement_02",
+          "name": "Recall 12",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 2
+        }
+      ]
     },
+
     {
-      "id": "recall_sample_06",
-      "name": "Recall 6",
+      "id": "starwars_recall",
+      "name": "Starwars",
       "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
-      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
-      "backup_script": "",
+      "backup_script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
       "enabled": true,
       "sort_order": 6,
-      "tags": ["recall", "sample"]
+      "replacements": [
+        {
+          "id": "starwars_replacement_01",
+          "name": "Recall 13",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 1
+        },
+        {
+          "id": "starwars_replacement_02",
+          "name": "Recall 14",
+          "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+          "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+          "enabled": true,
+          "sort_order": 2
+        }
+      ]
     }
   ]
 }
