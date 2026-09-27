@@ -7,10 +7,24 @@
       "id": "announcement_001",
       "title": "Welcome to MAXIMUS TOOLKIT",
       "message": "This is a sample announcement for testing.",
-      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "image": "https:\/\/raw.githubusercontent.com\/azizboy2007\/KAIZERUSDSKTOP2026\/main\/20260208_220548.png",
       "enabled": true,
       "priority": 1,
       "show_once": false
+    },
+    {
+      "id": "announcement_002",
+      "title": "try",
+      "message": "holaa new",
+      "image": "https:\/\/github.com\/Mexi23\/SeptUpdate\/raw\/refs\/heads\/main\/aamon.png",
+      "badge": "try",
+      "date": "2026-09-10",
+      "enabled": true,
+      "featured": false,
+      "priority": 0,
+      "sort_order": 2,
+      "action_text": "",
+      "link": ""
     }
   ]
 }
