@@ -1,1 +1,79 @@
-
+{
+  "version": 1,
+  "type": "most_popular",
+  "updated_at": "",
+  "items": [
+    {
+      "id": "popular_sample_01",
+      "name": "Sample 1",
+      "hero": "Example",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+      "backup_script": "",
+      "enabled": true,
+      "featured": true,
+      "sort_order": 1,
+      "tags": ["popular", "sample"]
+    },
+    {
+      "id": "popular_sample_02",
+      "name": "Sample 2",
+      "hero": "Example",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+      "backup_script": "",
+      "enabled": true,
+      "featured": true,
+      "sort_order": 2,
+      "tags": ["popular", "sample"]
+    },
+    {
+      "id": "popular_sample_03",
+      "name": "Sample 3",
+      "hero": "Example",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+      "backup_script": "",
+      "enabled": true,
+      "featured": true,
+      "sort_order": 3,
+      "tags": ["popular", "sample"]
+    },
+    {
+      "id": "popular_sample_04",
+      "name": "Sample 4",
+      "hero": "Example",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+      "backup_script": "",
+      "enabled": true,
+      "featured": true,
+      "sort_order": 4,
+      "tags": ["popular", "sample"]
+    },
+    {
+      "id": "popular_sample_05",
+      "name": "Sample 5",
+      "hero": "Example",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+      "backup_script": "",
+      "enabled": true,
+      "featured": true,
+      "sort_order": 5,
+      "tags": ["popular", "sample"]
+    },
+    {
+      "id": "popular_sample_06",
+      "name": "Sample 6",
+      "hero": "Example",
+      "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/20260208_220548.png",
+      "script": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/ALICE%20ELITE%20TO%20LUCKYBOX.zip",
+      "backup_script": "",
+      "enabled": true,
+      "featured": true,
+      "sort_order": 6,
+      "tags": ["popular", "sample"]
+    }
+  ]
+}
