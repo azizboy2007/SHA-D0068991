@@ -5,7 +5,7 @@
   "latest_version_code": 12,
   "latest_version_name": "1.2",
   "minimum_version_code": 10,
-  "force_update": true,
+  "force_update": false,
   "title": "New MAXIMUS Update",
   "message": "A new version is available with improvements and fixes.",
   "update_button_text": "UPDATE NOW",
