@@ -36,8 +36,7 @@
         "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/refs\/heads\/main\/image\/lol%201.jpg",
         "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/refs\/heads\/main\/image\/lol%202.jpg",
         "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/refs\/heads\/main\/image\/lol%203.jpg",
-        "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/refs\/heads\/main\/image\/lol%204.jpg",
-        "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/refs\/heads\/main\/image\/lol%205.jpg"
+        "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/refs\/heads\/main\/image\/lol%204.jpg"
       ],
       "variants": {
         "smooth": "",
@@ -51,7 +50,7 @@
         "high": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip",
         "ultra": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip"
       },
-      "enabled": true,
+      "enabled": false,
       "sort_order": 2
     },
     {
@@ -76,7 +75,7 @@
         "high": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip",
         "ultra": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip"
       },
-      "enabled": true,
+      "enabled": false,
       "sort_order": 3
     }
   ]
