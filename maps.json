@@ -50,7 +50,7 @@
         "high": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip",
         "ultra": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip"
       },
-      "enabled": false,
+      "enabled": true,
       "sort_order": 2
     },
     {
@@ -75,7 +75,7 @@
         "high": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip",
         "ultra": "https:\/\/raw.githubusercontent.com\/missnapokita\/maps\/main\/dark%20ultra.zip"
       },
-      "enabled": false,
+      "enabled": true,
       "sort_order": 3
     }
   ]
