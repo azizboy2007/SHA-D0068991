@@ -5,9 +5,9 @@
   "items": [
     {
       "id": "unreleased_001",
-      "name": "Glorious General",
-      "image": "https:\/\/github.com\/tin0521\/asimg\/raw\/refs\/heads\/main\/img_20241013_011323781.png",
-      "script": "https:\/\/github.com\/tin0521\/ff\/raw\/refs\/heads\/main\/zilong_gloriousgeneral.zip",
+      "name": "Ascendant of Flame",
+      "image": "https:\/\/github.com\/Mr-Nutcracker\/splashdog\/raw\/main\/2026-08-29-5f027246-9732-441e-b62c-6846cceb2798.png",
+      "script": "https:\/\/github.com\/Mr-Nutcracker\/ntx\/releases\/download\/NewSkinMLBB\/Zilong.Create.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
       "backup_script": "",
       "enabled": true,
       "sort_order": 1,
@@ -15,9 +15,9 @@
     },
     {
       "id": "unreleased_002",
-      "name": "Glorious General11",
-      "image": "https:\/\/github.com\/tin0521\/asimg\/raw\/refs\/heads\/main\/img_20241013_011323781.png",
-      "script": "https:\/\/github.com\/tin0521\/ff\/raw\/refs\/heads\/main\/zilong_gloriousgeneral.zip",
+      "name": "Silverbolt Raiko",
+      "image": "https:\/\/github.com\/Mr-Nutcracker\/splashdog\/raw\/main\/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
+      "script": "https:\/\/github.com\/Mr-Nutcracker\/ntx\/releases\/download\/NewSkinMLBB\/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
       "backup_script": "",
       "enabled": true,
       "sort_order": 2,
@@ -25,22 +25,12 @@
     },
     {
       "id": "unreleased_003",
-      "name": "https:\/\/github.com\/tin0521\/asimg\/raw\/refs\/heads\/main\/img_20241013_011323781.png",
-      "image": "https:\/\/github.com\/tin0521\/ff\/raw\/refs\/heads\/main\/zilong_gloriousgeneral.zip",
-      "script": "https:\/\/github.com\/tin0521\/ff\/raw\/refs\/heads\/main\/zilong_gloriousgeneral.zip",
+      "name": "The Purifier",
+      "image": "https:\/\/github.com\/Mr-Nutcracker\/splashdog\/raw\/main\/1788083275192.jpg",
+      "script": "https:\/\/github.com\/Mr-Nutcracker\/ntx\/releases\/download\/NewSkinMLBB\/Bruno.Collector.Script.Replace.Default.Unfinished.zip",
       "backup_script": "",
       "enabled": true,
       "sort_order": 3,
-      "featured": true
-    },
-    {
-      "id": "unreleased_004",
-      "name": "Glorious General",
-      "image": "https:\/\/github.com\/tin0521\/asimg\/raw\/refs\/heads\/main\/img_20241013_011323781.png",
-      "script": "https:\/\/github.com\/tin0521\/ff\/raw\/refs\/heads\/main\/zilong_gloriousgeneral.zip",
-      "backup_script": "",
-      "enabled": true,
-      "sort_order": 4,
       "featured": true
     }
   ]
