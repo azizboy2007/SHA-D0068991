@@ -6,8 +6,8 @@
     {
       "id": "unreleased_001",
       "name": "Ascendant of Flame",
-      "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/2026-08-29-5f027246-9732-441e-b62c-6846cceb2798.png",
-      "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Zilong.Create.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
+      "image": "https:\/\/github.com\/Mr-Nutcracker\/splashdog\/raw\/main\/2026-08-29-5f027246-9732-441e-b62c-6846cceb2798.png",
+      "script": "https:\/\/github.com\/Mr-Nutcracker\/ntx\/releases\/download\/NewSkinMLBB\/Zilong.Create.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
       "backup_script": "",
       "enabled": true,
       "sort_order": 1,
@@ -17,8 +17,8 @@
     {
       "id": "unreleased_002",
       "name": "Silverbolt Raiko",
-      "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
-      "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
+      "image": "https:\/\/github.com\/Mr-Nutcracker\/splashdog\/raw\/main\/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
+      "script": "https:\/\/github.com\/Mr-Nutcracker\/ntx\/releases\/download\/NewSkinMLBB\/Selena.Aspirant.Replace.Default.-.K4IJ1.SFILE.MOBI.zip",
       "backup_script": "",
       "enabled": true,
       "sort_order": 2,
@@ -28,13 +28,97 @@
     {
       "id": "unreleased_003",
       "name": "The Purifier",
-      "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/1788083275192.jpg",
-      "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/NewSkinMLBB/Bruno.Collector.Script.Replace.Default.Unfinished.zip",
+      "image": "https:\/\/github.com\/Mr-Nutcracker\/splashdog\/raw\/main\/1788083275192.jpg",
+      "script": "https:\/\/github.com\/Mr-Nutcracker\/ntx\/releases\/download\/NewSkinMLBB\/Bruno.Collector.Script.Replace.Default.Unfinished.zip",
       "backup_script": "",
       "enabled": true,
       "sort_order": 3,
       "featured": true,
       "hero": "Bruno"
+    },
+    {
+      "id": "unreleased_004",
+      "name": "Aurora Gaming",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20lapu.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Lapulapu%20champion.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 4,
+      "hero": "Lapu-Lapu",
+      "hero_id": "lapu-lapu",
+      "featured": true
+    },
+    {
+      "id": "unreleased_005",
+      "name": "Mythic",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20valen.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Valentina%20myth.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 5,
+      "hero": "Valentina",
+      "hero_id": "valentina",
+      "featured": true
+    },
+    {
+      "id": "unreleased_006",
+      "name": "Tideborn Sailor",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20kalea.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Khalea%20starlight.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 6,
+      "hero": "Kalea",
+      "hero_id": "kalea",
+      "featured": true
+    },
+    {
+      "id": "unreleased_007",
+      "name": "Colossus of Light",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20grock%201.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Grock%20FMVP.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 7,
+      "hero": "Grock",
+      "hero_id": "grock",
+      "featured": true
+    },
+    {
+      "id": "unreleased_008",
+      "name": "Kitsune's Shadow",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20haya1.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Hayabusa%20starlight.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 8,
+      "hero": "Hayabusa",
+      "hero_id": "hayabusa",
+      "featured": true
+    },
+    {
+      "id": "unreleased_009",
+      "name": "Feast of Eternity",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20kagura.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Kagura%20Legend.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 9,
+      "hero": "Kagura",
+      "hero_id": "kagura",
+      "featured": true
+    },
+    {
+      "id": "unreleased_010",
+      "name": "Oni Kabuto",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/display%20aldous1.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Aldous%20annualstar.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 10,
+      "hero": "Aldous",
+      "hero_id": "aldous",
+      "featured": true
     }
   ]
 }
