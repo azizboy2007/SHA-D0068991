@@ -556,6 +556,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "aldous_009",
+          "skin_name": "Oni Kabuto",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20aldous%20annual.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Aldous%20annualstar.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -2412,7 +2421,7 @@
           "id": "badang_003",
           "skin_name": "Fist of Zen",
           "image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/6\/64\/Hero776-portrait.png\/revision\/latest?cb=20220525165821",
-          "script": "https:\/\/github.com\/Mexi23\/Feb_2026\/raw\/refs\/heads\/main\/badang_collectorR.zip",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Badang%20Collector.zip",
           "featured": true,
           "enabled": true,
           "tags": [
@@ -9485,6 +9494,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "grock_009",
+          "skin_name": "Colossus of Light",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20grock%20fmvp.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Grock%20FMVP.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -11362,6 +11380,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "hayabusa_011",
+          "skin_name": "Kitsune's Shadow",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20Haya%20newstart.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Hayabusa%20starlight.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -13358,6 +13385,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "kagura_011",
+          "skin_name": "Feast of Eternity",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20kagura%20legend.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Kagura%20Legend.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -13577,6 +13613,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "kalea_003",
+          "skin_name": "Tideborn Sailor",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20kalea%20starlight.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Khalea%20starlight.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -15000,6 +15045,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "lapu_lapu_001",
+          "skin_name": "Aurora Gaming",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20lapu%20champ.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Lapulapu%20champion.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -16989,6 +17043,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "lylia_007",
+          "skin_name": "coll",
+          "image": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/blob\/main\/Lylia%20Collector.zip",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Lylia%20Collector.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
@@ -23383,6 +23446,15 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "valentina_007",
+          "skin_name": "Mythic",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/imf%20valentina%20mythic.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/TD2389ROP111\/raw\/main\/Valentina%20myth.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": []
         }
       ]
     },
