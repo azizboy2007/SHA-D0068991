@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "type": "battle_emotes",
   "updated_at": "",
   "items": [
@@ -74,6 +74,132 @@
       "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
       "enabled": true,
       "sort_order": 8
+    },
+    {
+      "id": "asar_v1",
+      "name": "ASAR V1",
+      "image": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/IMG%20ASAR.png",
+      "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20URADA%20ASAR%202025.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 9
+    },
+    {
+      "id": "asaaar",
+      "name": "ASAAAR!",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250201_134548.png",
+      "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/asar.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 10
+    },
+    {
+      "id": "hapart",
+      "name": "HAPART",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250201_134446.png",
+      "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/hapart.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 11
+    },
+    {
+      "id": "urada_asaar",
+      "name": "Urada - Asaar!",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ASARRRRR.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20FIX%20URADA%20ASAR.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 12
+    },
+    {
+      "id": "ma_ano_ulam",
+      "name": "Ma Ano Ulam?",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20MAANOULAM.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F1%20Ma%20Ano%20Ulam.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 13
+    },
+    {
+      "id": "tiktok_reels",
+      "name": "TikTok Reels",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Urada%20-%20Tiktok%20Reels.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Ehey%20TikTok%20Reels.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 14
+    },
+    {
+      "id": "tlph_2025",
+      "name": "TLPH 2025",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Battle_Emote_-_TLPH-PH%402025.png/revision/latest?cb=20250321125127",
+      "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20TLPH%202025.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 15
+    },
+    {
+      "id": "tlid_2025",
+      "name": "TLID 2025",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Battle_Emote_-_TLID-ID%402025.png/revision/latest?cb=20250321125119",
+      "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20TLID%202025.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 16
+    },
+    {
+      "id": "navi_id_2025",
+      "name": "NAVI ID 2025",
+      "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Battle_Emote_-_NAVI-ID%402025.png/revision/latest?cb=20250321125119",
+      "script": "https://github.com/azizboy2007/BATTLE-EFFECT/raw/main/EMOTE%20NAVI%20ID%202025.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 17
+    },
+    {
+      "id": "iam_rai",
+      "name": "Iam Rai",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20AkoSiRai.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F21%20AkoSiRai.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 18
+    },
+    {
+      "id": "nothing_happened",
+      "name": "Nothing Happened!",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20NothingHappen.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F21%20NothingHappen.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 19
+    },
+    {
+      "id": "are_you_okay",
+      "name": "Are you okay?",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20AnoTrippings.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/F20%20AnoHindiNyokoMapipitas.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 20
+    },
+    {
+      "id": "aray_koh",
+      "name": "Aray koh!",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250615_213140.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/BOSS%20Araayy%20kooh.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 21
+    },
+    {
+      "id": "k1ng_kong",
+      "name": "K1NG KONG",
+      "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20KINGKONG.png",
+      "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/EMOTE%20KINGKONG.zip",
+      "backup_script": "https://github.com/Maharlikoders/random-files/raw/main/emoji.zip",
+      "enabled": true,
+      "sort_order": 22
     }
   ]
 }
