@@ -5,24 +5,15 @@
   "items": [
     {
       "id": "announcement_001",
-      "title": "Welcome to MAXIMUS TOOLKIT",
-      "message": "This is a sample announcement for testing.",
-      "image": "https:\/\/raw.githubusercontent.com\/azizboy2007\/KAIZERUSDSKTOP2026\/main\/20260208_220548.png",
-      "enabled": true,
-      "priority": 1,
-      "show_once": false
-    },
-    {
-      "id": "announcement_002",
-      "title": "try",
-      "message": "holaa new",
-      "image": "https:\/\/github.com\/Mexi23\/SeptUpdate\/raw\/refs\/heads\/main\/aamon.png",
-      "badge": "try",
-      "date": "2026-09-10",
+      "title": "Patch 2",
+      "message": "Added new skins\nAdded fresh Latest \/ Upcoming skins\nRemoved annoying ads\nFixed inconsistent dashboard headers\nFixed bottom scrolling issues on the Skin page\nImproved overall UI behavior and browsing experience",
+      "image": "https:\/\/github.com\/azizboy2007\/SHA-D0068991\/raw\/main\/file_00000000bfa8823093c494cb97974b32.png",
+      "badge": "",
+      "date": "October 12, 2026",
       "enabled": true,
       "featured": false,
       "priority": 0,
-      "sort_order": 2,
+      "sort_order": 1,
       "action_text": "",
       "link": ""
     }
