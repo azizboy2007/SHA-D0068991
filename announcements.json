@@ -16,6 +16,20 @@
       "sort_order": 1,
       "action_text": "",
       "link": ""
+    },
+    {
+      "id": "announcement_002",
+      "title": "Version 4",
+      "message": "New Custom Emote Add Feature and Many More!!",
+      "image": "https:\/\/github.com\/azizboy2007\/MaximusWeb\/raw\/main\/file_00000000755c82078de0523742d0e62e.png",
+      "badge": "",
+      "date": "12AM October 17,2026",
+      "enabled": true,
+      "featured": false,
+      "priority": 0,
+      "sort_order": 2,
+      "action_text": "",
+      "link": ""
     }
   ]
 }
