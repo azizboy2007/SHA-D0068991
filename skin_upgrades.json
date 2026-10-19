@@ -3517,6 +3517,15 @@
           "type": "upgrade",
           "enabled": true,
           "skin_tags": []
+        },
+        {
+          "id": "upgrade_target_001",
+          "name": "Sunblade Duelist",
+          "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20soyou%20starlighy.jpg",
+          "script": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/o1%20Suyou%20Basic%20to%20Starlight.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
