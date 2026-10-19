@@ -1832,6 +1832,70 @@
         "popular",
         "yi_sun_shin"
       ]
+    },
+    {
+      "id": "popular_001",
+      "name": "Jotaro Kujo",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20badang%20gotaru.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/o1%20Badang%20X%20Jotaro.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 123,
+      "hero": "Badang",
+      "hero_id": "badang",
+      "featured": true,
+      "tags": [
+        "popular",
+        "badang"
+      ]
+    },
+    {
+      "id": "popular_002",
+      "name": "Escanor",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20bane%20as%20escanor.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/o1%20Bane%20X%20Escanor.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 124,
+      "hero": "Bane",
+      "hero_id": "bane",
+      "featured": true,
+      "tags": [
+        "popular",
+        "bane"
+      ]
+    },
+    {
+      "id": "popular_003",
+      "name": "Mr Crabs",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20bane%20mrcrab.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/o1%20Bane%20X%20Mr%20Crab.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 125,
+      "hero": "Bane",
+      "hero_id": "bane",
+      "featured": true,
+      "tags": [
+        "popular",
+        "bane"
+      ]
+    },
+    {
+      "id": "popular_004",
+      "name": "Goku",
+      "image": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/img%20yin%20x%20goku%20.jpg",
+      "script": "https:\/\/github.com\/azizboy2007\/DESKTOP-GERMA\/raw\/main\/o1%20Lucas%20X%20Goku.zip",
+      "backup_script": "",
+      "enabled": true,
+      "sort_order": 126,
+      "hero": "Lukas",
+      "hero_id": "lukas",
+      "featured": true,
+      "tags": [
+        "popular",
+        "lukas"
+      ]
     }
   ]
 }
